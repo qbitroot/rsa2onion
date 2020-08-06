@@ -48,7 +48,7 @@ And install requiremenets from file:
 6. Add .onion to end.
 7. Done!
 
-![algorithm.png](Illustration)
+![Illustration](algorithm.png)
 
 ## TODO
 Add support of V3 onion addresses (and check is it already done?)
