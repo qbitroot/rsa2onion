@@ -30,8 +30,12 @@ G9SygLMEnE/C9GsYfpMnBp0NPf+Gk3a1IHIy/NhETlW1
 ```
 
 ## Installation
-Firstly, install Python 3 and python3-pip. Then git clone this repo:
-`git clone https://github.com/gangural/rsa2onion`
+Firstly, install Python 3 and python3-pip. Then git clone this repo and `cd` to it:
+
+`git clone https://github.com/gangural/rsa2onion && cd rsa2onion`
+
+And install requiremenets from file:
+
 `sudo pip3 install -r requirements.txt`
 
 ## How
