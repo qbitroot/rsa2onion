@@ -38,7 +38,7 @@ And install requiremenets from file:
 
 `sudo pip3 install -r requirements.txt`
 
-## How
+## How it works
 
 1. Generate public key based on private key.
 2. Convert it to DER format (for some reason I had to crop DER key to start from 22nd byte).
