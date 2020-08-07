@@ -51,4 +51,4 @@ And install requiremenets from file:
 ![Illustration](algorithm.png)
 
 ## TODO
-Add support of V3 onion addresses (and check is it already done?)
+Add support of V3 onion addresses (and check is it already done?).
