@@ -1,4 +1,4 @@
-# rsa2onion
+# ⚙️ rsa2onion
 Convert RSA private keys to .onion domains.
 
 ## Purpose?
@@ -28,6 +28,9 @@ LSt4z+ISzc8TbXrZ+WMCQQCUGJf/zn6lzzru9jBWxjPzfUkUnWSh6dYlkruKzOJ8
 G9SygLMEnE/C9GsYfpMnBp0NPf+Gk3a1IHIy/NhETlW1
 -----END RSA PRIVATE KEY-----
 ```
+Example output:
+
+`a6w2bp7sz5wzvp52.onion`
 
 ## Installation
 Firstly, install Python 3 and python3-pip. Then git clone this repo and `cd` to it:
