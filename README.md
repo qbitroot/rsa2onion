@@ -3,7 +3,7 @@ Convert RSA private keys to .onion domains.
 
 ## Purpose?
 
-When you place your private key to file `private_key` at Tor hidden service directory, hostname is generated based on that key (or random if not set). This tool allows you to convert RSA private key to onion domain without necessity to paste key to file and restarting Tor hidden service.
+When you place your private key to file named `private_key` at Tor hidden service directory, hostname is generated based on that key (or random if not set). This tool allows you to convert RSA private key to onion domain without necessity to paste key to file and restarting Tor hidden service to see what onion domain stands for that key.
 
 ## Usage
 
