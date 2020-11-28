@@ -35,7 +35,7 @@ Example output:
 ## Installation
 Firstly, install Python 3 and python3-pip. Then git clone this repo and `cd` to it:
 
-`git clone https://github.com/gangural/rsa2onion && cd rsa2onion`
+`git clone https://github.com/qbitroot/rsa2onion && cd rsa2onion`
 
 And install requiremenets from file:
 
