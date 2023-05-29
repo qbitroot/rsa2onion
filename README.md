@@ -1,5 +1,5 @@
 # ⚙️ rsa2onion
-Convert RSA private keys to .onion domains.
+Convert private keys to .onion domains.
 
 ## Purpose?
 
@@ -32,14 +32,17 @@ Example output:
 
 `a6w2bp7sz5wzvp52.onion`
 
+For version 3 addresses the usage is:
+`python3 rsa2onion.py -v3 /path/to/private_key.pem`
+
 ## Installation
 Firstly, install Python 3 and python3-pip. Then git clone this repo and `cd` to it:
 
 `git clone https://github.com/qbitroot/rsa2onion && cd rsa2onion`
 
-And install requiremenets from file:
+And install requirements from file:
 
-`sudo pip3 install -r requirements.txt`
+`sudo pip install -r requirements.txt`
 
 ## How it works
 
@@ -52,6 +55,3 @@ And install requiremenets from file:
 7. Done!
 
 ![Illustration](algorithm.png)
-
-## TODO
-Add support of V3 onion addresses (and check is it already done?).
